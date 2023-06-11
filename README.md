@@ -16,15 +16,15 @@
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=java,docker,mysql)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=github,linux,wordpress)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=github,wordpress)](https://skillicons.dev)
 
 
 ### 📈 My Statistics
