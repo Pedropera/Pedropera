@@ -16,11 +16,11 @@
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=java,c,python)](https://skillicons.dev)
 
 - Tools and Plataforms
 
