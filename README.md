@@ -8,8 +8,8 @@
 </p>
 
 
-- 👉 About me: I'm 19 years olds and currently study Computer Engineering at Univasf(Universidade do Vale do São Francisco).
-- 🌱 Studying and improving my skills in Java.
+- 👉 About me: I'm 20 years olds and currently study Computer Engineering at Univasf(Universidade do Vale do São Francisco).
+- 🌱 Studying and improving my skills in Algotithms, Data Structures, and solving problems.
 - 📫 My email: pedro.pereira0510@hotmail.com
 
 ### ⚡ Technologies:
